@@ -6,5 +6,6 @@ steak
 rice and peas
 seafood pasta
 wild mushroom pie
+pizza
 
 Those are the list of my favourite dishes.
